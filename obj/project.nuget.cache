@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/04rvaNjoHA=",
+  "dgSpecHash": "nM1pVqO8Y5w=",
   "success": true,
   "projectFilePath": "/Users/eddiemaceda/c#/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/eddiemaceda/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }
