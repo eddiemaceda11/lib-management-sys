@@ -1,8 +1,4 @@
-﻿/*
-
-*/
-
-using Spectre.Console;
+﻿using Spectre.Console;
 
 var menuChoices = new string[3] {"View Books", "Add Book", "Delete Book"};
 
